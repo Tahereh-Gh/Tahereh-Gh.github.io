@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "Tahereh-Gh.github.io/index.html",
+    "href": "Tahereh-Gh.github.io/index.html",
     "title": "tahereh",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nWhat do you think?"
+  },
+  {
+    "objectID": "Tahereh-Gh.github.io/about.html",
+    "href": "Tahereh-Gh.github.io/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -14,8 +21,15 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Tahereh-Gh.github.io/cv.html",
+    "href": "Tahereh-Gh.github.io/cv.html",
     "title": "cv",
     "section": "",
     "text": "Tahereh Gholipour Postdoc Aarhus University tgh.ncrr@au.dk"
