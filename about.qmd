@@ -2,8 +2,79 @@
 title: "About"
 ---
 
-About this site
+## Academic profile
 
-```{r}
-1 + 1
-```
+I am an interdisciplinary researcher with training in clinical pharmacy and current
+expertise in statistical genetics and applied bioinformatics for the analysis of
+large-scale genomic and health data. My research focuses on computational and
+statistical methods for complex human disease, with particular emphasis on polygenic
+modelling, fine-mapping, gene–environment analyses, and reproducible analysis of
+large-scale genomic and register-based data. I combine method-oriented quantitative
+research with translational interpretation of biological and clinical questions, and
+I have active teaching experience in applied data analysis and programming, including
+PhD-level instruction in R.
+
+## Background
+
+My path into statistical genetics started in clinical practice. I trained as a
+pharmacist (Pharm.D., Isfahan University of Medical Sciences, 2010–2016) and worked
+as a clinical pharmacist at Alzahra Hospital while completing a Ph.D. in Clinical
+Pharmacy (2016–2023). During that time my interests moved toward the quantitative and
+computational side of health research, which led me to a visiting researcher position
+at the Center for Quantitative Genetics and Genomics (QGG), Aarhus University, in
+2022. I have been based in Aarhus ever since, joining the National Centre for
+Register-based Research (NCRR) as a postdoctoral researcher in June 2024. This
+background is part of why I care about keeping statistical and computational work
+connected to the underlying clinical and biological questions.
+
+## Research interests
+
+- Statistical genetics and computational genomics
+- Bioinformatics and applied computational biology
+- Polygenic modelling and fine-mapping
+- Gene–environment analyses and family-based designs
+- Psychiatric genetics and complex disease biology
+- Register-based and longitudinal health data analysis
+- Reproducible computational workflows and high-performance computing
+
+## Methodological expertise
+
+- Genome-wide association studies (GWAS)
+- Polygenic score analysis
+- Bayesian linear regression and fine-mapping
+- Integration of genomic and register-based data
+- Reproducible analysis pipelines in R
+- Statistical genetics and risk modelling for complex disorders
+
+## Teaching
+
+I am course developer, course leader, and instructor for **Basic R** (PhD level) at
+Aarhus University — responsible for course design, teaching materials, and delivery.
+The course was first offered in 2026, with deliveries in April and December. I also
+lead and teach **Advanced R** (PhD level), an established PhD course at Aarhus
+University, from 2026.
+
+I completed the University Pedagogical Programme at Aarhus University in spring 2026.
+
+Earlier in my career I was a teaching assistant in Clinical Pharmacy Practice and
+Community Pharmacy Practice at Isfahan University of Medical Sciences (2017–2021).
+
+## Supervision and mentoring
+
+I am currently co-supervising three PhD research projects in statistical genetics and
+epidemiology at Aarhus University. Previously, I co-supervised five PharmD and PhD
+projects on drug safety, dialysis outcomes, and depression in diabetes.
+
+## Honors and service
+
+I received the European Society of Human Genetics (ESHG) Fellowship for European
+Countries in 2025, and was nominated for the ESHG Best Poster Award the same year. In
+2020, I ranked first in the Clinical Pharmacy Board Examination.
+
+I regularly review for journals spanning genetics and pharmacy practice, including
+*Brain Communications*, *Scientific Reports*, and the *Journal of Research in Pharmacy
+Practice*, and I contribute to academic organisation and collaborative research
+activities within the Aarhus University research environment.
+
+For the complete, dated record of appointments, education, teaching, and service, see
+my [CV](cv.qmd). For my papers and preprints, see [Publications](publications.qmd).

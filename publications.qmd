@@ -1,0 +1,123 @@
+---
+title: "Publications"
+---
+
+Research spans statistical genetics, bioinformatics, and clinical/translational
+research, with recent emphasis on Bayesian modelling, gene-set prioritisation,
+fine-mapping, and psychiatric genetics. `*` marks corresponding authorship.
+
+## Peer-reviewed publications
+
+1. Hjelholt AJ, **Gholipourshahraki T**, Bai Z, Shrestha M, Kjolby M, Sørensen P,
+   Rohde PD. Leveraging genetic correlations to prioritize drug groups for
+   repurposing in type 2 diabetes. *The Pharmacogenomics Journal*. 2025
+   Dec;25(6):33. [Link](https://www.nature.com/articles/s41397-025-00392-z)
+
+2. Shrestha M, Bai Z, **Gholipourshahraki T**, Hjelholt AJ, Hu S, Kjolby M, Rohde
+   PD, Sørensen P. Enhanced genetic fine mapping accuracy with Bayesian Linear
+   Regression models in diverse genetic architectures. *PLoS Genetics*. 2025 Jul
+   30;21(7):e1011783. PMID: 40737338; PMCID: PMC12327644.
+   [doi:10.1371/journal.pgen.1011783](https://doi.org/10.1371/journal.pgen.1011783)
+
+3. **Gholipourshahraki T\***, Bai Z, Shrestha M, Hjelholt A, Hu S, Kjolby M, Rohde
+   PD, Sørensen P. Evaluation of Bayesian Linear Regression models for gene set
+   prioritization in complex diseases. *PLoS Genetics*. 2024 Nov
+   4;20(11):e1011463.
+   [doi:10.1371/journal.pgen.1011463](https://doi.org/10.1371/journal.pgen.1011463)
+
+4. Bai Z, **Gholipourshahraki T**, Shrestha M, Hjelholt A, Hu S, Kjolby M, Rohde
+   PD, Sørensen P. Evaluation of Bayesian Linear Regression derived gene set test
+   methods. *BMC Genomics*. 2024 Dec 23;25(1):1236.
+   [Link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11026-2)
+
+5. Badri S, Dadkhah-Tehrani B, Atapour A, Shahidi S, Mortazavi M,
+   **Gholipourshahraki T\***. The Relationship Between Weight Indices and Blood
+   Levels of Immunosuppressive Drugs in Renal Transplant Recipients. *Iranian
+   Journal of Pharmaceutical Research (IJPR)*. 2024 Sep 16;23(1):e146619.
+
+6. **Gholipourshahraki T**, Aria A, Sharifi M, Moghadas A, Moghaddas A. Potential
+   Drug Interactions in Hospitalized Hematologic Cancer Patients: New Update with
+   New Chemotherapy Regimens. *Journal of Research in Pharmacy Practice*. 2023 Oct
+   1;12(4):115-22.
+
+7. **Gholipur-Shahraki T**, Vahdat S, Seirafian S, Pourfarzam M, Badri S. Effect of
+   omega-3 fatty acids supplementation on homocysteine level in patients undergoing
+   continuous ambulatory peritoneal dialysis. *Journal of Research in Pharmacy
+   Practice*. 2022 Dec 14;11(2):80.
+
+8. Hakamifard A, Mardani M, Nasiri MJ, **Gholipur-Shahraki T\***. Bendamustine and
+   pneumocystis pneumonia: A systematic review. *Health Science Reports*. 2022
+   May;5(3):e610.
+
+9. Badri S, Vahdat S, Seirafian S, Pourfarzam M, **Gholipur-Shahraki T\***, Ataei
+   S. Homocysteine-lowering interventions in chronic kidney disease. *Journal of
+   Research in Pharmacy Practice*. 2021 Jul 1;10(3):114.
+
+10. Hakamifard A, **Gholipur-Shahraki T\***. COVID-19 and Acute Pancreatitis: A
+    Case Report. *Acta Medica Iranica*. 2021 Aug 1;59(8).
+
+11. **Gholipur-Shahraki T**, Sadeghi A, Oghab P, Farrokhi P, Moghaddas A. Massive
+    Splenomegaly: A Rare Presentation of Megaloblastic Anemia. *International
+    Journal of Hematology-Oncology and Stem Cell Research*. 2021 Apr 1;15(2):132.
+
+12. Hakamifard A, Mardani M, **Gholipur-Shahraki T\***. Hemophagocytic
+    lymphohistiocytosis presented with fever of unknown origin: A case study and
+    literature review. *Clinical Case Reports*. 2021 Apr;9(4):2350-5.
+
+13. Kazemi R, **Gholipur-Shahraki T**, Salehi H, Hatampour M, Ghadimi K.
+    Spontaneous nephrocutaneous fistula due to xanthogranulomatous pyelonephritis
+    with secondary enterocutaneous fistula: a rare case report. *American Journal
+    of Clinical and Experimental Urology*. 2021;9(2):177.
+
+14. **Gholipour-Shahraki T**, Yari F, Seirafian S, Badri S. Potential of drug
+    interactions as a cause of adverse drug reactions in patients with kidney
+    diseases. *Journal of Research in Pharmacy Practice*. 2020 Apr;9(2):121.
+
+15. Ashtari F, Hakamifard A, Hariri A, **Gholipour-Shahraki T**. Rituximab
+    associated necrosis: A case report. *Multiple Sclerosis and Related
+    Disorders*. 2020 Jan 1;37:101429.
+
+16. Hakamifard A, Mousavi S, **Gholipur-Shahraki T\***, Mohaghegh F. Levofloxacin
+    Induced Stomatitis: A Case Report. *Journal of Pharmaceutical Care*. 2019 Oct
+    23.
+
+17. **Gholipur-Shahraki T**, Feizi A, Mortazavi M, Badri S. Effects of carnitine on
+    nutritional parameters in patients with chronic kidney disease: an updated
+    systematic review and meta-analysis. *Journal of Research in Pharmacy
+    Practice*. 2018 Apr;7(2):5.
+
+## Preprints
+
+1. **Gholipourshahraki T\***, Barry CJ, Plana-Ripoll O, Bulik C, Benros ME, Bo
+   Mortensen P, Agerbo E, Vogdrup Petersen L, Johann Vilhjalmsson B. Estimating
+   Within- and Between-Family Polygenic Effects For Psychiatric Disorders Under
+   Non-random Ascertainment. *medRxiv*. 2026.
+   [Read preprint](https://www.medrxiv.org/content/10.64898/2026.07.28.26359090v1.full)
+
+2. **Gholipourshahraki T\***, Ejlskov L, Semark BD, Maseras GT, Steinbach J,
+   Hansen OS, Pedersen CB, Bulik CM, Benros ME, Mortensen PB, Agerbo E. Polygenic
+   Scores and Environmental Factors in Psychiatric Disorders: Gene–Environment
+   Interaction Analyses Using the iPSYCH Study. *medRxiv*. 2025 Oct 8.
+   [Read preprint](https://www.medrxiv.org/content/10.1101/2025.10.07.25337407v1)
+
+3. Pre-release notes for Genomic Informed Drug Target Database (Pre-release).
+   *Zenodo*. [doi:10.5281/zenodo.7925231](https://doi.org/10.5281/zenodo.7925231)
+
+## In preparation
+
+1. **Gholipourshahraki T\***, et al. Estimating within- and between-family
+   polygenic effects for psychiatric disorders under selection bias.
+2. Barry CJ, **Gholipourshahraki T**, Kutalik Z, Vilhjálmsson BJ, Agerbo E.
+   Statistical Approaches to Selection Bias in Genetic Epidemiology: A Systematic
+   Review.
+
+## Books
+
+1. Borran M, **Gholipurshahraki T**, Arbabi B. (2021). *Ambulatory Care
+   Therapeutics and Pharmacotherapy; Psychiatric Disorder*. Abadis Teb. (in
+   Persian)
+
+## Conference contributions
+
+Seven poster presentations, 2019–2026, including a Best Poster Award nomination at
+the European Society of Human Genetics (ESHG) conference, 2025.

@@ -1,0 +1,32 @@
+meta:
+  name: "Tahereh Gholipourshahraki"
+
+color:
+  palette:
+    ink: "#212C36"
+    teal: "#1F5F5B"
+    rust: "#B5652D"
+    paper: "#FFFFFF"
+    mist: "#F4F6F7"
+    line: "#DFE4E6"
+  foreground: ink
+  background: paper
+  primary: teal
+  secondary: rust
+
+typography:
+  fonts:
+    - family: "Source Sans 3"
+      source: google
+      weight: [400, 600, 700]
+    - family: "Source Serif 4"
+      source: google
+      weight: [600, 700]
+  base:
+    family: "Source Sans 3"
+  headings:
+    family: "Source Serif 4"
+    weight: 700
+  link:
+    color: teal
+    decoration: underline

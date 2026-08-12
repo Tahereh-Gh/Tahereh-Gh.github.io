@@ -2,14 +2,33 @@ project:
   type: website
 
 website:
-  title: "My advanced R course"
+  title: "Tahereh Gholipourshahraki"
+  site-url: "https://tahereh-gh.github.io"
+  description: "Postdoctoral researcher in statistical genetics and computational genomics at Aarhus University."
+  open-graph: true
+  twitter-card: true
+  search: true
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
       - href: cv.qmd
         text: CV
+    right:
+      - icon: envelope
+        href: mailto:tgh.ncrr@au.dk
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tahereh-gholipour-261675b9/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Tahereh Gholipourshahraki"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
@@ -18,6 +37,6 @@ format:
       - brand
     css: styles.css
     toc: true
+    smooth-scroll: true
 
 editor: visual
-

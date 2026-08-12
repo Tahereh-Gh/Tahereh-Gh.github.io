@@ -1,9 +1,103 @@
 ---
-title: "cv"
-format: html
+title: "CV"
 ---
 
-Tahereh Gholipour
-Postdoc
-Aarhus University
-tgh.ncrr@au.dk
+::: {.cv-intro}
+**Tahereh Gholipourshahraki** — Postdoctoral Researcher, PharmD, Ph.D.\
+National Centre for Register-based Research, Aarhus University, Aarhus, Denmark\
+[tgh.ncrr@au.dk](mailto:tgh.ncrr@au.dk) · [ORCID 0000-0003-0228-4177](https://orcid.org/0000-0003-0228-4177) · [LinkedIn](https://www.linkedin.com/in/tahereh-gholipour-261675b9/)
+:::
+
+This page is the complete, dated record. For a narrative overview see [About](about.qmd);
+for the full paper trail see [Publications](publications.qmd).
+
+## Academic appointments
+
+**06/2024 – present**\
+Postdoctoral Researcher, The National Centre for Register-based Research, Aarhus University, Denmark
+
+**03/2023 – 12/2023**\
+Research Assistant, Center for Quantitative Genetics and Genomics, Aarhus University, Denmark
+
+**10/2022 – 02/2023**\
+Visiting Researcher, Center for Quantitative Genetics and Genomics, Aarhus University, Denmark
+
+**01/2016 – 11/2021**\
+Clinical Pharmacist, Alzahra Hospital, Isfahan University of Medical Sciences
+
+## Education
+
+**2016 – 2023**\
+Ph.D. in Clinical Pharmacy, Isfahan University of Medical Sciences
+
+**2010 – 2016**\
+Professional Doctorate Degree in Pharmacy (Pharm.D.), Isfahan University of Medical Sciences
+
+## Research interests
+
+Statistical genetics and computational genomics · Bioinformatics and applied
+computational biology · Polygenic modelling and fine-mapping · Gene–environment
+analyses and family-based designs · Psychiatric genetics and complex disease biology ·
+Register-based and longitudinal health data analysis · Reproducible computational
+workflows and high-performance computing
+
+## Methodological expertise
+
+Genome-wide association studies (GWAS) · Polygenic score analysis · Bayesian linear
+regression and fine-mapping · Integration of genomic and register-based data ·
+Reproducible analysis pipelines in R · Statistical genetics and risk modelling for
+complex disorders
+
+## Teaching and pedagogical qualifications
+
+**Course Leader and Instructor, Aarhus University**
+
+- **Basic R** (PhD level). Course developer, course leader, and instructor.
+  Responsible for course design, preparation of teaching materials, and course
+  delivery. First offered in 2026, with two deliveries in April and December.
+- **Advanced R** (PhD level). Course leader and instructor from 2026 for an
+  established PhD-level course.
+
+**Pedagogical training**
+
+- Completed the University Pedagogical Programme, Aarhus University (Spring 2026).
+
+**Past teaching experience**
+
+- Teaching Assistant, Clinical Pharmacy Practice, Isfahan University of Medical
+  Sciences, Iran (10/2019–03/2021)
+- Teaching Assistant, Community Pharmacy Practice, Teaching Pharmacies of Isfahan
+  University of Medical Sciences, Iran (02/2017–03/2021)
+
+## Supervision and mentoring
+
+- Currently co-supervising three PhD research projects in statistical genetics and
+  epidemiology at Aarhus University.
+- Co-supervised five PharmD and PhD projects on drug safety, dialysis outcomes, and
+  depression in diabetes.
+
+## Honors and awards
+
+- European Society of Human Genetics (ESHG) Fellowship for European Countries, 2025
+- Nominated for Best Poster Award, European Society of Human Genetics (ESHG), 2025
+- Ranked first in Clinical Pharmacy Board Examination, 2020
+
+## Academic service
+
+- Regular peer reviewer for journals in genetics and pharmacy practice, including
+  *Brain Communications*, *Scientific Reports*, and the *Journal of Research in
+  Pharmacy Practice*.
+- Contributed to academic organisation and collaborative research activities within
+  the Aarhus University research environment.
+
+## Technical and computational skills
+
+- **Programming and computational analysis:** R, Python, PLINK, LDAK, GCTB
+- **Statistical genetics and bioinformatics:** GWAS, polygenic score analysis,
+  Bayesian linear regression, fine-mapping
+- **Data resources:** iPSYCH, Danish national registers, GWAS Catalog, public genomic
+  databases
+- **Data visualisation and reproducibility:** ggplot2, matplotlib, Git, reproducible
+  workflows
+- **Computing infrastructure:** High-performance computing clusters, SLURM workload
+  management
