@@ -1,37 +1,198 @@
 [
   {
-    "objectID": "Tahereh-Gh.github.io/index.html",
-    "href": "Tahereh-Gh.github.io/index.html",
-    "title": "tahereh",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nWhat do you think?"
+    "text": "Research spans statistical genetics, bioinformatics, and clinical/translational research, with recent emphasis on Bayesian modelling, gene-set prioritisation, fine-mapping, and psychiatric genetics. * marks corresponding authorship."
   },
   {
-    "objectID": "Tahereh-Gh.github.io/about.html",
-    "href": "Tahereh-Gh.github.io/about.html",
-    "title": "About",
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-reviewed publications",
+    "text": "Peer-reviewed publications\n\nHjelholt AJ, Gholipourshahraki T, Bai Z, Shrestha M, Kjolby M, Sørensen P, Rohde PD. Leveraging genetic correlations to prioritize drug groups for repurposing in type 2 diabetes. The Pharmacogenomics Journal. 2025 Dec;25(6):33. Link\nShrestha M, Bai Z, Gholipourshahraki T, Hjelholt AJ, Hu S, Kjolby M, Rohde PD, Sørensen P. Enhanced genetic fine mapping accuracy with Bayesian Linear Regression models in diverse genetic architectures. PLoS Genetics. 2025 Jul 30;21(7):e1011783. PMID: 40737338; PMCID: PMC12327644. doi:10.1371/journal.pgen.1011783\nGholipourshahraki T*, Bai Z, Shrestha M, Hjelholt A, Hu S, Kjolby M, Rohde PD, Sørensen P. Evaluation of Bayesian Linear Regression models for gene set prioritization in complex diseases. PLoS Genetics. 2024 Nov 4;20(11):e1011463. doi:10.1371/journal.pgen.1011463\nBai Z, Gholipourshahraki T, Shrestha M, Hjelholt A, Hu S, Kjolby M, Rohde PD, Sørensen P. Evaluation of Bayesian Linear Regression derived gene set test methods. BMC Genomics. 2024 Dec 23;25(1):1236. Link\nBadri S, Dadkhah-Tehrani B, Atapour A, Shahidi S, Mortazavi M, Gholipourshahraki T*. The Relationship Between Weight Indices and Blood Levels of Immunosuppressive Drugs in Renal Transplant Recipients. Iranian Journal of Pharmaceutical Research (IJPR). 2024 Sep 16;23(1):e146619.\nGholipourshahraki T, Aria A, Sharifi M, Moghadas A, Moghaddas A. Potential Drug Interactions in Hospitalized Hematologic Cancer Patients: New Update with New Chemotherapy Regimens. Journal of Research in Pharmacy Practice. 2023 Oct 1;12(4):115-22.\nGholipur-Shahraki T, Vahdat S, Seirafian S, Pourfarzam M, Badri S. Effect of omega-3 fatty acids supplementation on homocysteine level in patients undergoing continuous ambulatory peritoneal dialysis. Journal of Research in Pharmacy Practice. 2022 Dec 14;11(2):80.\nHakamifard A, Mardani M, Nasiri MJ, Gholipur-Shahraki T*. Bendamustine and pneumocystis pneumonia: A systematic review. Health Science Reports. 2022 May;5(3):e610.\nBadri S, Vahdat S, Seirafian S, Pourfarzam M, Gholipur-Shahraki T*, Ataei S. Homocysteine-lowering interventions in chronic kidney disease. Journal of Research in Pharmacy Practice. 2021 Jul 1;10(3):114.\nHakamifard A, Gholipur-Shahraki T*. COVID-19 and Acute Pancreatitis: A Case Report. Acta Medica Iranica. 2021 Aug 1;59(8).\nGholipur-Shahraki T, Sadeghi A, Oghab P, Farrokhi P, Moghaddas A. Massive Splenomegaly: A Rare Presentation of Megaloblastic Anemia. International Journal of Hematology-Oncology and Stem Cell Research. 2021 Apr 1;15(2):132.\nHakamifard A, Mardani M, Gholipur-Shahraki T*. Hemophagocytic lymphohistiocytosis presented with fever of unknown origin: A case study and literature review. Clinical Case Reports. 2021 Apr;9(4):2350-5.\nKazemi R, Gholipur-Shahraki T, Salehi H, Hatampour M, Ghadimi K. Spontaneous nephrocutaneous fistula due to xanthogranulomatous pyelonephritis with secondary enterocutaneous fistula: a rare case report. American Journal of Clinical and Experimental Urology. 2021;9(2):177.\nGholipour-Shahraki T, Yari F, Seirafian S, Badri S. Potential of drug interactions as a cause of adverse drug reactions in patients with kidney diseases. Journal of Research in Pharmacy Practice. 2020 Apr;9(2):121.\nAshtari F, Hakamifard A, Hariri A, Gholipour-Shahraki T. Rituximab associated necrosis: A case report. Multiple Sclerosis and Related Disorders. 2020 Jan 1;37:101429.\nHakamifard A, Mousavi S, Gholipur-Shahraki T*, Mohaghegh F. Levofloxacin Induced Stomatitis: A Case Report. Journal of Pharmaceutical Care. 2019 Oct\n\n\n\nGholipur-Shahraki T, Feizi A, Mortazavi M, Badri S. Effects of carnitine on nutritional parameters in patients with chronic kidney disease: an updated systematic review and meta-analysis. Journal of Research in Pharmacy Practice. 2018 Apr;7(2):5."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nGholipourshahraki T*, Barry CJ, Plana-Ripoll O, Bulik C, Benros ME, Bo Mortensen P, Agerbo E, Vogdrup Petersen L, Johann Vilhjalmsson B. Estimating Within- and Between-Family Polygenic Effects For Psychiatric Disorders Under Non-random Ascertainment. medRxiv. 2026. Read preprint\nGholipourshahraki T*, Ejlskov L, Semark BD, Maseras GT, Steinbach J, Hansen OS, Pedersen CB, Bulik CM, Benros ME, Mortensen PB, Agerbo E. Polygenic Scores and Environmental Factors in Psychiatric Disorders: Gene–Environment Interaction Analyses Using the iPSYCH Study. medRxiv. 2025 Oct 8. Read preprint\nPre-release notes for Genomic Informed Drug Target Database (Pre-release). Zenodo. doi:10.5281/zenodo.7925231"
+  },
+  {
+    "objectID": "publications.html#in-preparation",
+    "href": "publications.html#in-preparation",
+    "title": "Publications",
+    "section": "In preparation",
+    "text": "In preparation\n\nGholipourshahraki T*, et al. Estimating within- and between-family polygenic effects for psychiatric disorders under selection bias.\nBarry CJ, Gholipourshahraki T, Kutalik Z, Vilhjálmsson BJ, Agerbo E. Statistical Approaches to Selection Bias in Genetic Epidemiology: A Systematic Review."
+  },
+  {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\n\nBorran M, Gholipurshahraki T, Arbabi B. (2021). Ambulatory Care Therapeutics and Pharmacotherapy; Psychiatric Disorder. Abadis Teb. (in Persian)"
+  },
+  {
+    "objectID": "publications.html#conference-contributions",
+    "href": "publications.html#conference-contributions",
+    "title": "Publications",
+    "section": "Conference contributions",
+    "text": "Conference contributions\nSeven poster presentations, 2019–2026, including a Best Poster Award nomination at the European Society of Human Genetics (ESHG) conference, 2025."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Tahereh Gholipourshahraki — Postdoctoral Researcher, PharmD, Ph.D.\nNational Centre for Register-based Research, Aarhus University, Aarhus, Denmark\ntgh.ncrr@au.dk · ORCID 0000-0003-0228-4177 · LinkedIn\nThis page is the complete, dated record. For a narrative overview see About; for the full paper trail see Publications."
+  },
+  {
+    "objectID": "cv.html#academic-appointments",
+    "href": "cv.html#academic-appointments",
+    "title": "CV",
+    "section": "Academic appointments",
+    "text": "Academic appointments\n06/2024 – present\nPostdoctoral Researcher, The National Centre for Register-based Research, Aarhus University, Denmark\n03/2023 – 12/2023\nResearch Assistant, Center for Quantitative Genetics and Genomics, Aarhus University, Denmark\n10/2022 – 02/2023\nVisiting Researcher, Center for Quantitative Genetics and Genomics, Aarhus University, Denmark\n01/2016 – 11/2021\nClinical Pharmacist, Alzahra Hospital, Isfahan University of Medical Sciences"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n2016 – 2023\nPh.D. in Clinical Pharmacy, Isfahan University of Medical Sciences\n2010 – 2016\nProfessional Doctorate Degree in Pharmacy (Pharm.D.), Isfahan University of Medical Sciences"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\nStatistical genetics and computational genomics · Bioinformatics and applied computational biology · Polygenic modelling and fine-mapping · Gene–environment analyses and family-based designs · Psychiatric genetics and complex disease biology · Register-based and longitudinal health data analysis · Reproducible computational workflows and high-performance computing"
+  },
+  {
+    "objectID": "cv.html#methodological-expertise",
+    "href": "cv.html#methodological-expertise",
+    "title": "CV",
+    "section": "Methodological expertise",
+    "text": "Methodological expertise\nGenome-wide association studies (GWAS) · Polygenic score analysis · Bayesian linear regression and fine-mapping · Integration of genomic and register-based data · Reproducible analysis pipelines in R · Statistical genetics and risk modelling for complex disorders"
+  },
+  {
+    "objectID": "cv.html#teaching-and-pedagogical-qualifications",
+    "href": "cv.html#teaching-and-pedagogical-qualifications",
+    "title": "CV",
+    "section": "Teaching and pedagogical qualifications",
+    "text": "Teaching and pedagogical qualifications\nCourse Leader and Instructor, Aarhus University\n\nBasic R (PhD level). Course developer, course leader, and instructor. Responsible for course design, preparation of teaching materials, and course delivery. First offered in 2026, with two deliveries in April and December.\nAdvanced R (PhD level). Course leader and instructor from 2026 for an established PhD-level course.\n\nPedagogical training\n\nCompleted the University Pedagogical Programme, Aarhus University (Spring 2026).\n\nPast teaching experience\n\nTeaching Assistant, Clinical Pharmacy Practice, Isfahan University of Medical Sciences, Iran (10/2019–03/2021)\nTeaching Assistant, Community Pharmacy Practice, Teaching Pharmacies of Isfahan University of Medical Sciences, Iran (02/2017–03/2021)"
+  },
+  {
+    "objectID": "cv.html#supervision-and-mentoring",
+    "href": "cv.html#supervision-and-mentoring",
+    "title": "CV",
+    "section": "Supervision and mentoring",
+    "text": "Supervision and mentoring\n\nCurrently co-supervising three PhD research projects in statistical genetics and epidemiology at Aarhus University.\nCo-supervised five PharmD and PhD projects on drug safety, dialysis outcomes, and depression in diabetes."
+  },
+  {
+    "objectID": "cv.html#honors-and-awards",
+    "href": "cv.html#honors-and-awards",
+    "title": "CV",
+    "section": "Honors and awards",
+    "text": "Honors and awards\n\nEuropean Society of Human Genetics (ESHG) Fellowship for European Countries, 2025\nNominated for Best Poster Award, European Society of Human Genetics (ESHG), 2025\nRanked first in Clinical Pharmacy Board Examination, 2020"
+  },
+  {
+    "objectID": "cv.html#academic-service",
+    "href": "cv.html#academic-service",
+    "title": "CV",
+    "section": "Academic service",
+    "text": "Academic service\n\nRegular peer reviewer for journals in genetics and pharmacy practice, including Brain Communications, Scientific Reports, and the Journal of Research in Pharmacy Practice.\nContributed to academic organisation and collaborative research activities within the Aarhus University research environment."
+  },
+  {
+    "objectID": "cv.html#technical-and-computational-skills",
+    "href": "cv.html#technical-and-computational-skills",
+    "title": "CV",
+    "section": "Technical and computational skills",
+    "text": "Technical and computational skills\n\nProgramming and computational analysis: R, Python, PLINK, LDAK, GCTB\nStatistical genetics and bioinformatics: GWAS, polygenic score analysis, Bayesian linear regression, fine-mapping\nData resources: iPSYCH, Danish national registers, GWAS Catalog, public genomic databases\nData visualisation and reproducibility: ggplot2, matplotlib, Git, reproducible workflows\nComputing infrastructure: High-performance computing clusters, SLURM workload management"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am an interdisciplinary researcher with training in clinical pharmacy and current expertise in statistical genetics and applied bioinformatics for the analysis of large-scale genomic and health data. My research focuses on computational and statistical methods for complex human disease, with particular emphasis on polygenic modelling, fine-mapping, gene–environment analyses, and reproducible analysis of large-scale genomic and register-based data. I combine method-oriented quantitative research with translational interpretation of biological and clinical questions, and I have active teaching experience in applied data analysis and programming, including PhD-level instruction in R."
+  },
+  {
+    "objectID": "about.html#academic-profile",
+    "href": "about.html#academic-profile",
+    "title": "About",
+    "section": "",
+    "text": "I am an interdisciplinary researcher with training in clinical pharmacy and current expertise in statistical genetics and applied bioinformatics for the analysis of large-scale genomic and health data. My research focuses on computational and statistical methods for complex human disease, with particular emphasis on polygenic modelling, fine-mapping, gene–environment analyses, and reproducible analysis of large-scale genomic and register-based data. I combine method-oriented quantitative research with translational interpretation of biological and clinical questions, and I have active teaching experience in applied data analysis and programming, including PhD-level instruction in R."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nMy path into statistical genetics started in clinical practice. I trained as a pharmacist (Pharm.D., Isfahan University of Medical Sciences, 2010–2016) and worked as a clinical pharmacist at Alzahra Hospital while completing a Ph.D. in Clinical Pharmacy (2016–2023). During that time my interests moved toward the quantitative and computational side of health research, which led me to a visiting researcher position at the Center for Quantitative Genetics and Genomics (QGG), Aarhus University, in 2022. I have been based in Aarhus ever since, joining the National Centre for Register-based Research (NCRR) as a postdoctoral researcher in June 2024. This background is part of why I care about keeping statistical and computational work connected to the underlying clinical and biological questions."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nStatistical genetics and computational genomics\nBioinformatics and applied computational biology\nPolygenic modelling and fine-mapping\nGene–environment analyses and family-based designs\nPsychiatric genetics and complex disease biology\nRegister-based and longitudinal health data analysis\nReproducible computational workflows and high-performance computing"
+  },
+  {
+    "objectID": "about.html#methodological-expertise",
+    "href": "about.html#methodological-expertise",
+    "title": "About",
+    "section": "Methodological expertise",
+    "text": "Methodological expertise\n\nGenome-wide association studies (GWAS)\nPolygenic score analysis\nBayesian linear regression and fine-mapping\nIntegration of genomic and register-based data\nReproducible analysis pipelines in R\nStatistical genetics and risk modelling for complex disorders"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About",
+    "section": "Teaching",
+    "text": "Teaching\nI am course developer, course leader, and instructor for Basic R (PhD level) at Aarhus University — responsible for course design, teaching materials, and delivery. The course was first offered in 2026, with deliveries in April and December. I also lead and teach Advanced R (PhD level), an established PhD course at Aarhus University, from 2026.\nI completed the University Pedagogical Programme at Aarhus University in spring 2026.\nEarlier in my career I was a teaching assistant in Clinical Pharmacy Practice and Community Pharmacy Practice at Isfahan University of Medical Sciences (2017–2021)."
+  },
+  {
+    "objectID": "about.html#supervision-and-mentoring",
+    "href": "about.html#supervision-and-mentoring",
+    "title": "About",
+    "section": "Supervision and mentoring",
+    "text": "Supervision and mentoring\nI am currently co-supervising three PhD research projects in statistical genetics and epidemiology at Aarhus University. Previously, I co-supervised five PharmD and PhD projects on drug safety, dialysis outcomes, and depression in diabetes."
+  },
+  {
+    "objectID": "about.html#honors-and-service",
+    "href": "about.html#honors-and-service",
+    "title": "About",
+    "section": "Honors and service",
+    "text": "Honors and service\nI received the European Society of Human Genetics (ESHG) Fellowship for European Countries in 2025, and was nominated for the ESHG Best Poster Award the same year. In 2020, I ranked first in the Clinical Pharmacy Board Examination.\nI regularly review for journals spanning genetics and pharmacy practice, including Brain Communications, Scientific Reports, and the Journal of Research in Pharmacy Practice, and I contribute to academic organisation and collaborative research activities within the Aarhus University research environment.\nFor the complete, dated record of appointments, education, teaching, and service, see my CV. For my papers and preprints, see Publications."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Tahereh Gholipourshahraki",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Postdoctoral Researcher, PharmD, Ph.D.\nNational Centre for Register-based Research, Aarhus University\nAarhus, Denmark\nI am an interdisciplinary researcher with training in clinical pharmacy and current expertise in statistical genetics and applied bioinformatics. My work focuses on computational and statistical methods for complex human disease — particularly polygenic modelling, fine-mapping, and gene–environment analysis of large-scale genomic and register-based data.\n\n✉ Email ORCID LinkedIn AU Profile Publications"
   },
   {
-    "objectID": "Tahereh-Gh.github.io/cv.html",
-    "href": "Tahereh-Gh.github.io/cv.html",
-    "title": "cv",
-    "section": "",
-    "text": "Tahereh Gholipour Postdoc Aarhus University tgh.ncrr@au.dk"
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Tahereh Gholipourshahraki",
+    "section": "Research interests",
+    "text": "Research interests\n\nStatistical genetics Computational genomics Polygenic modelling & fine-mapping Gene–environment interaction Psychiatric genetics Register-based & longitudinal data Reproducible workflows in R"
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Tahereh Gholipourshahraki",
+    "section": "Currently",
+    "text": "Currently\n\nPostdoctoral researcher at the National Centre for Register-based Research (NCRR), Aarhus University, since June 2024\nCourse developer, leader, and instructor for Basic R and Advanced R (PhD-level courses, Aarhus University)\nCo-supervising three PhD research projects in statistical genetics and epidemiology\nEuropean Society of Human Genetics (ESHG) Fellowship for European Countries, 2025"
+  },
+  {
+    "objectID": "index.html#selected-recent-work",
+    "href": "index.html#selected-recent-work",
+    "title": "Tahereh Gholipourshahraki",
+    "section": "Selected recent work",
+    "text": "Selected recent work\nEstimating Within- and Between-Family Polygenic Effects For Psychiatric Disorders Under Non-random Ascertainment\nGholipourshahraki T*, et al. medRxiv, 2026. Read preprint →\nPolygenic Scores and Environmental Factors in Psychiatric Disorders: Gene–Environment Interaction Analyses Using the iPSYCH Study\nGholipourshahraki T*, et al. medRxiv, 2025. Read preprint →\nEvaluation of Bayesian Linear Regression models for gene set prioritization in complex diseases\nGholipourshahraki T*, et al. PLOS Genetics, 2024. Read article →\nSee the full publication list →"
   }
 ]
